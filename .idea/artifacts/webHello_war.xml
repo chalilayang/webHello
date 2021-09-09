@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="webHello:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/webHello_war</output-path>
+    <root id="archive" name="webHello_war.war">
+      <element id="artifact" artifact-name="webHello:war exploded" />
+    </root>
+  </artifact>
+</component>
